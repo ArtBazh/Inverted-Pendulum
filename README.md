@@ -1,6 +1,6 @@
 # Inverted Pendulum
 The control is carried out by STM32 through LQR controller and PID controller. Omron encoders and Maxon motor were used. All the mechanics and electronics were made by me. LQR code is written by me and Vladimir Berman.
-## Images
+## Photos
 ![1](https://github.com/ArtBazh/Inverted-Pendulum/assets/115483849/7262ec01-3916-41ec-bb74-f83966c2e4ef)
 ![2](https://github.com/ArtBazh/Inverted-Pendulum/assets/115483849/39c50123-65f6-4db4-aecb-c7686b633631)
 ![3](https://github.com/ArtBazh/Inverted-Pendulum/assets/115483849/0e346af6-90a5-4c3c-9d0a-e57803d4386d)
